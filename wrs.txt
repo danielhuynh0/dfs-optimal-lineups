@@ -1,0 +1,75 @@
+Justin Jefferson(MIN)
+A+
+14.9
+Ja'Marr Chase(CIN)
+A+
+14.2
+Cooper Kupp(LAR)
+A+
+13.6
+A.J. Brown(PHI)
+A+
+13.1
+CeeDee Lamb(DAL)
+A+
+12.6
+Tyreek Hill(MIA)
+A+
+12.3
+Amon-Ra St. Brown(DET)
+A
+12.0
+Garrett Wilson(NYJ)
+A
+11.7
+Stefon Diggs(BUF)
+A
+11.3
+Jaylen Waddle(MIA)
+A
+11.1
+Davante Adams(LV)
+A
+10.8
+Amari Cooper(CLE)
+A
+10.7
+Chris Olave(NO)
+A
+10.5
+Deebo Samuel(SF)
+A
+10.4
+DeVonta Smith(PHI)
+A-
+10.2
+Tee Higgins(CIN)
+A-
+10.1
+DJ Moore(CHI)
+A-
+10.0
+DK Metcalf(SEA)
+A-
+9.9
+Christian Watson(GB)
+A-
+9.8
+Jerry Jeudy(DEN)
+B+
+9.7
+Drake London(ATL)
+B+
+9.6
+Keenan Allen(LAC)
+B+
+9.5
+Terry McLaurin(WAS)
+B
+9.3
+Brandon Aiyuk(SF)
+B
+9.2
+DeAndre Hopkins(FA)
+B
+9.1
