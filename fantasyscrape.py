@@ -51,7 +51,7 @@ def qbs():
             # Set path to chromedriver executable
             webdriver_service = Service('/path/to/chromedriver')  # Replace with the correct path
 
-                    # Configure Chrome options
+            # Configure Chrome options
             chrome_options = Options()
             chrome_options.add_argument('Host: www.google.com')
             chrome_options.add_argument('User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36')
@@ -275,7 +275,7 @@ def te():
         except requests.exceptions.RequestException as e:
             print("Skipping. Connection error")
             print(traceback.format_exc())
-            
+
 def calc_rb():
     None
     #convert stats to int
@@ -295,7 +295,7 @@ if __name__ == "__main__":
     print("Running backs")
     rbs()
 
-    time.sleep(6)#varius time increments to avoid suspision
+    time.sleep(6)#various time increments to avoid suspision
 
     print("Wide Recivers")
     print("")
