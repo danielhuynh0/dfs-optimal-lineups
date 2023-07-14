@@ -27,7 +27,7 @@ if __name__ == "__main__":
                 quaterbacks.append(element)
                 
             elif q==3:
-                element = int(line.strip())
+                element = float(line.strip())
                 quaterbacks.append(element)
             # Remove any leading/trailing whitespace and convert to integer
 
@@ -45,7 +45,7 @@ if __name__ == "__main__":
                 element = line.strip()
                 backs.append(element)
             elif q==3:
-                element = int(line.strip())
+                element = float(line.strip())
                 backs.append(element)
     print(backs)
 
@@ -59,7 +59,7 @@ if __name__ == "__main__":
                 element = line.strip()
                 recievers.append(element)
             elif q==3:
-                element = int(line.strip())
+                element = float(line.strip())
                 recievers.append(element)
     print(recievers)
 
@@ -75,7 +75,7 @@ if __name__ == "__main__":
                 element = line.strip()
                 ends.append(element)
             elif q==3:
-                element = int(line.strip())
+                element = float(line.strip())
                 ends.append(element)
     print(ends)
     
@@ -89,7 +89,7 @@ if __name__ == "__main__":
                 element = line.strip()
                 sal.append(element)
             elif q==3:
-                element = int(line.strip())
+                element = float(line.strip())
                 sal.append(element)
     print(sal)
 
