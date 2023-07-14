@@ -1,0 +1,75 @@
+Bijan Robinson(ATL)
+A+
+18.0
+Christian McCaffrey(SF)
+A+
+16.6
+Jonathan Taylor(IND)
+A+
+15.6
+Nick Chubb(CLE)
+A
+15.1
+Austin Ekeler(LAC)
+A
+14.6
+Josh Jacobs(LV)
+A
+14.3
+Saquon Barkley(NYG)
+A
+14.0
+Tony Pollard(DAL)
+A
+13.6
+Derrick Henry(TEN)
+A
+13.3
+Rhamondre Stevenson(NE)
+A-
+13.2
+Travis Etienne Jr.(JAC)
+A-
+12.9
+J.K. Dobbins(BAL)
+A-
+12.6
+Breece Hall(NYJ)
+A-
+12.4
+Cam Akers(LAR)
+B+
+12.3
+Kenneth Walker III(SEA)
+B+
+12.0
+Miles Sanders(CAR)
+B
+11.8
+Aaron Jones(GB)
+B
+11.5
+Najee Harris(PIT)
+B
+11.3
+Dalvin Cook(FA)
+B
+11.1
+Isiah Pacheco(KC)
+B
+10.9
+Jahmyr Gibbs(DET)
+B
+10.7
+Joe Mixon(CIN)
+B-
+10.5
+James Conner(ARI)
+B-
+10.3
+Dameon Pierce(HOU)
+B-
+10.2
+Rachaad White(TB)
+C+
+9.9

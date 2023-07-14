@@ -1,0 +1,150 @@
+Travis Kelce(KC)
+A+
+12.4
+Mark Andrews(BAL)
+A
+10.7
+T.J. Hockenson(MIN)
+A
+8.9
+Darren Waller(NYG)
+A-
+8.3
+George Kittle(SF)
+B+
+7.7
+Dallas Goedert(PHI)
+B
+7.4
+Kyle Pitts(ATL)
+B
+7.0
+David Njoku(CLE)
+B-
+6.7
+Pat Freiermuth(PIT)
+C+
+6.5
+Cole Kmet(CHI)
+C
+6.2
+Evan Engram(JAC)
+C-
+5.8
+Chigoziem Okonkwo(TEN)
+C
+5.6
+Dalton Schultz(HOU)
+D+
+5.3
+Greg Dulcich(DEN)
+D
+5.1
+Mike Gesicki(NE)
+D
+4.9
+Dalton Kincaid(BUF)
+D
+4.7
+Tyler Higbee(LAR)
+D
+4.6
+Juwan Johnson(NO)
+D
+4.5
+Sam LaPorta(DET)
+D
+4.4
+Gerald Everett(LAC)
+D-
+4.2
+Michael Mayer(LV)
+D-
+4.1
+Irv Smith Jr.(CIN)
+F
+4.0
+Noah Fant(SEA)
+F
+3.9
+Jelani Woods(IND)
+F
+3.8
+Taysom Hill(NO)
+F
+3.7
+Hayden Hurst(CAR)
+F
+3.6
+Hunter Henry(NE)
+F
+3.5
+Tyler Conklin(NYJ)
+F
+3.4
+Trey McBride(ARI)
+F
+3.2
+Isaiah Likely(BAL)
+F
+3.1
+Logan Thomas(WAS)
+F
+3.0
+Zach Ertz(ARI)
+F
+2.9
+Dawson Knox(BUF)
+F
+2.9
+Jake Ferguson(DAL)
+F
+2.8
+Cade Otton(TB)
+F
+2.7
+Luke Musgrave(GB)
+F
+2.6
+Foster Moreau(NO)
+F
+2.6
+Tucker Kraft(GB)
+F
+2.5
+Austin Hooper(LV)
+F
+2.4
+Adam Trautman(DEN)
+F
+2.4
+Luke Schoonmaker(DAL)
+F
+2.3
+Durham Smythe(MIA)
+F
+2.2
+O.J. Howard(LV)
+F
+2.2
+Darnell Washington(PIT)
+F
+2.1
+Albert Okwuegbunam(DEN)
+F
+2.0
+Daniel Bellinger(NYG)
+F
+2.0
+Robert Tonyan(CHI)
+F
+1.9
+Jonnu Smith(ATL)
+F
+1.9
+Donald Parham Jr.(LAC)
+F
+1.8
+Brock Wright(DET)
+F
+1.8

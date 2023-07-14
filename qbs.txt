@@ -1,0 +1,75 @@
+Patrick Mahomes II(KC)
+A+
+25.1
+Jalen Hurts(PHI)
+A
+24.1
+Lamar Jackson(BAL)
+A
+23.1
+Josh Allen(BUF)
+A
+22.2
+Justin Fields(CHI)
+B+
+21.5
+Justin Herbert(LAC)
+B+
+20.8
+Joe Burrow(CIN)
+B
+20.3
+Trevor Lawrence(JAC)
+B
+19.9
+Dak Prescott(DAL)
+B-
+19.5
+Deshaun Watson(CLE)
+B-
+19.1
+Tua Tagovailoa(MIA)
+B-
+18.7
+Kirk Cousins(MIN)
+C+
+18.3
+Jared Goff(DET)
+C+
+18.0
+Daniel Jones(NYG)
+C+
+17.7
+Geno Smith(SEA)
+C
+17.4
+Russell Wilson(DEN)
+C
+17.2
+Derek Carr(NO)
+C-
+16.9
+Anthony Richardson(IND)
+C-
+16.7
+Matthew Stafford(LAR)
+D+
+16.5
+Aaron Rodgers(NYJ)
+D
+16.3
+Jordan Love(GB)
+D
+16.1
+Bryce Young(CAR)
+D-
+15.9
+Desmond Ridder(ATL)
+F
+15.7
+Kenny Pickett(PIT)
+F
+15.5
+Ryan Tannehill(TEN)
+F
+15.3

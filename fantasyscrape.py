@@ -39,6 +39,8 @@ def qbs():
     # Initialize a URL.
     url = 'https://httpbin.org/ip'
 
+    file = open("qbs.txt", "w")
+
     # Iterate through the proxies and check if they are working.
     for i in range(1, len(proxies)):
         # Get a proxy from the pool
@@ -81,6 +83,7 @@ def qbs():
                         player=0
                         
                     print(i.text)
+                    file.write(f"{i.text}\n")
                     player=player+1
 
                         
@@ -99,6 +102,8 @@ def wrs():
     random.shuffle(proxies)
     # Initialize a URL.
     url = 'https://httpbin.org/ip'
+
+    file = open("wrs.txt", "w")
 
     # Iterate through the proxies and check if they are working.
     for i in range(1, 5):
@@ -141,6 +146,7 @@ def wrs():
                         print(int(limit/3+1))
                         player=0
                     print(i.text)
+                    file.write(f"{i.text}\n")
                     player=player+1
 
                         
@@ -159,6 +165,8 @@ def rbs():
     random.shuffle(proxies)
     # Initialize a URL.
     url = 'https://httpbin.org/ip'
+
+    file = open("rbs.txt", "w")
 
     # Iterate through the proxies and check if they are working.
     for i in range(1, 5):
@@ -202,6 +210,7 @@ def rbs():
                         player=0
                         
                     print(i.text)
+                    file.write(f"{i.text}\n")
                     player=player+1
 
                         
@@ -215,10 +224,13 @@ def rbs():
         except requests.exceptions.RequestException as e:
             print("Skipping. Connection error")
             print(traceback.format_exc())
+
 def te():
     random.shuffle(proxies)
     # Initialize a URL.
     url = 'https://httpbin.org/ip'
+
+    file = open("tes.txt", "w")
 
     # Iterate through the proxies and check if they are working.
     for i in range(1, 5):
@@ -262,6 +274,7 @@ def te():
                         player=0
                         
                     print(i.text)
+                    file.write(f"{i.text}\n")
                     player=player+1
 
                         
